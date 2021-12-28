@@ -1,0 +1,28 @@
+Output for Movie.md :
+
+[]
+[ { title: 'Mersal', studio: 'Sun pictures', rating: 'PG' } ]
+
+Output for Class Circle :
+
+toString: 1.2 RED
+getRadius: 12.40
+getColor: BLUE
+getArea: 483.05
+getColor: 77.91
+toString: 12.4 BLUE
+
+Output for Person class to hold all the details :
+
+    Name: Santhosh
+    Age: 24
+    Dob: 17/02/1997
+    Address: 6/224/2E, THENDRAL NAGAR SEEKARAJAPURAM RANIPET
+    Phoneno: 8122526440
+
+Output to calculate Uber Price :
+
+Seater : 4
+TotalKmsCovered : 10
+TotalTimeCovered: 30
+Total Ride Charge including all charges :370
